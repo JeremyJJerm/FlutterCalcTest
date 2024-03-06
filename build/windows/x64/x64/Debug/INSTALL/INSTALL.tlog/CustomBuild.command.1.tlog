@@ -1,0 +1,10 @@
+^C:\USERS\JSPAC\DESKTOP\UNIVERSITY STUFF\BNCC\REGENERASI SUBDIV\LNT\MINIPROJECTFLUTTER\FLUTTER_CALCULATOR\BUILD\WINDOWS\X64\CMAKEFILES\AD4E41E42D771950DA16977988BFE881\INSTALL_FORCE.RULE
+setlocal
+cd .
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Jspac\Desktop\University Stuff\BNCC\Regenerasi SubDiv\LnT\miniprojectflutter\flutter_calculator\build\windows\x64\CMakeFiles\8aad6da434e5ecf1301cab2a600d5322\INSTALL_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{84558319-7A33-315A-B9C4-954E6DD4981C}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

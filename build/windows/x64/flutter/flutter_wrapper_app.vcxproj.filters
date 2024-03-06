@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\Jspac\Desktop\University Stuff\BNCC\Regenerasi SubDiv\LnT\miniprojectflutter\flutter_calculator\windows\flutter\ephemeral\cpp_client_wrapper\core_implementations.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Jspac\Desktop\University Stuff\BNCC\Regenerasi SubDiv\LnT\miniprojectflutter\flutter_calculator\windows\flutter\ephemeral\cpp_client_wrapper\standard_codec.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Jspac\Desktop\University Stuff\BNCC\Regenerasi SubDiv\LnT\miniprojectflutter\flutter_calculator\windows\flutter\ephemeral\cpp_client_wrapper\flutter_engine.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Jspac\Desktop\University Stuff\BNCC\Regenerasi SubDiv\LnT\miniprojectflutter\flutter_calculator\windows\flutter\ephemeral\cpp_client_wrapper\flutter_view_controller.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Jspac\Desktop\University Stuff\BNCC\Regenerasi SubDiv\LnT\miniprojectflutter\flutter_calculator\windows\flutter\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{84558319-7A33-315A-B9C4-954E6DD4981C}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{CBDD4FB4-1252-39FB-9E50-F99484684655}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

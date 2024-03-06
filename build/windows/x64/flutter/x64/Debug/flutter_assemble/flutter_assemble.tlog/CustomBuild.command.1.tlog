@@ -1,0 +1,28 @@
+^C:\USERS\JSPAC\DESKTOP\UNIVERSITY STUFF\BNCC\REGENERASI SUBDIV\LNT\MINIPROJECTFLUTTER\FLUTTER_CALCULATOR\BUILD\WINDOWS\X64\CMAKEFILES\AE153D7B655357F187352580D4C963F3\FLUTTER_WINDOWS.DLL.RULE
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E env FLUTTER_ROOT=C:\Users\Jspac\FlutterSDK\flutter "PROJECT_DIR=C:\Users\Jspac\Desktop\University Stuff\BNCC\Regenerasi SubDiv\LnT\miniprojectflutter\flutter_calculator" FLUTTER_ROOT=C:\Users\Jspac\FlutterSDK\flutter "FLUTTER_EPHEMERAL_DIR=C:\Users\Jspac\Desktop\University Stuff\BNCC\Regenerasi SubDiv\LnT\miniprojectflutter\flutter_calculator\windows\flutter\ephemeral" "PROJECT_DIR=C:\Users\Jspac\Desktop\University Stuff\BNCC\Regenerasi SubDiv\LnT\miniprojectflutter\flutter_calculator" "FLUTTER_TARGET=C:\Users\Jspac\Desktop\University Stuff\BNCC\Regenerasi SubDiv\LnT\miniprojectflutter\flutter_calculator\lib\main.dart" DART_DEFINES=RkxVVFRFUl9XRUJfQVVUT19ERVRFQ1Q9dHJ1ZQ==,RkxVVFRFUl9XRUJfQ0FOVkFTS0lUX1VSTD1odHRwczovL3d3dy5nc3RhdGljLmNvbS9mbHV0dGVyLWNhbnZhc2tpdC8wNDgxN2M5OWM5ZmQ0OTU2ZjI3NTA1MjA0ZjdlMzQ0MzM1ODEwYWVkLw== DART_OBFUSCATION=false TRACK_WIDGET_CREATION=true TREE_SHAKE_ICONS=false "PACKAGE_CONFIG=C:\Users\Jspac\Desktop\University Stuff\BNCC\Regenerasi SubDiv\LnT\miniprojectflutter\flutter_calculator\.dart_tool\package_config.json" C:/Users/Jspac/FlutterSDK/flutter/packages/flutter_tools/bin/tool_backend.bat windows-x64 Debug
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\JSPAC\DESKTOP\UNIVERSITY STUFF\BNCC\REGENERASI SUBDIV\LNT\MINIPROJECTFLUTTER\FLUTTER_CALCULATOR\BUILD\WINDOWS\X64\CMAKEFILES\D7524D9229A87A673B50C88AB0C14E76\FLUTTER_ASSEMBLE.RULE
+setlocal
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\JSPAC\DESKTOP\UNIVERSITY STUFF\BNCC\REGENERASI SUBDIV\LNT\MINIPROJECTFLUTTER\FLUTTER_CALCULATOR\WINDOWS\FLUTTER\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" "-SC:/Users/Jspac/Desktop/University Stuff/BNCC/Regenerasi SubDiv/LnT/miniprojectflutter/flutter_calculator/windows" "-BC:/Users/Jspac/Desktop/University Stuff/BNCC/Regenerasi SubDiv/LnT/miniprojectflutter/flutter_calculator/build/windows/x64" --check-stamp-file "C:/Users/Jspac/Desktop/University Stuff/BNCC/Regenerasi SubDiv/LnT/miniprojectflutter/flutter_calculator/build/windows/x64/flutter/CMakeFiles/generate.stamp"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

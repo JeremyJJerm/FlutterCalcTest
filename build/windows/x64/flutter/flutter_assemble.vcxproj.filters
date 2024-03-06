@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Jspac\Desktop\University Stuff\BNCC\Regenerasi SubDiv\LnT\miniprojectflutter\flutter_calculator\build\windows\x64\CMakeFiles\ae153d7b655357f187352580d4c963f3\flutter_windows.dll.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Jspac\Desktop\University Stuff\BNCC\Regenerasi SubDiv\LnT\miniprojectflutter\flutter_calculator\build\windows\x64\CMakeFiles\d7524d9229a87a673b50c88ab0c14e76\flutter_assemble.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Jspac\Desktop\University Stuff\BNCC\Regenerasi SubDiv\LnT\miniprojectflutter\flutter_calculator\windows\flutter\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\Jspac\Desktop\University Stuff\BNCC\Regenerasi SubDiv\LnT\miniprojectflutter\flutter_calculator\build\windows\x64\flutter\CMakeFiles\flutter_assemble" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{84558319-7A33-315A-B9C4-954E6DD4981C}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
