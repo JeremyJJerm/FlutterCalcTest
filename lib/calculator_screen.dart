@@ -85,9 +85,7 @@ class _CalculatorScreenState extends State<CalculatorScreen> {
         output = 'Error';
         input = '';
       }
-    } else if (context == "+/-") {
-      // ... (existing code)
-    } else if (context == "%") {
+    }  else if (context == "%") {
       // Handle percentage button
       if (input.isNotEmpty && RegExp(r'[0-9.]$').hasMatch(input)) {
         input += "%";
@@ -283,8 +281,8 @@ class _CalculatorScreenState extends State<CalculatorScreen> {
                 children: [
                   ...ButtonArea1.values.map(
                     (e) => SizedBox(
-                      width: screenSize.width / 5.9,
-                      height: screenSize.height / 5.19,
+                      width: screenSize.width /4.45,
+                      height: screenSize.height /7.2,
                       child: buildButton(
                         text: e.text,
                         color: e.color,
